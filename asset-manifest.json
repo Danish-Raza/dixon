@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dixon/static/css/main.632039c2.css",
+    "main.js": "/dixon/static/js/main.94933422.js",
+    "static/js/787.c4c76647.chunk.js": "/dixon/static/js/787.c4c76647.chunk.js",
+    "static/media/saltoris.png": "/dixon/static/media/saltoris.85ee1f2ddaea2b827b67.png",
+    "index.html": "/dixon/index.html",
+    "main.632039c2.css.map": "/dixon/static/css/main.632039c2.css.map",
+    "main.94933422.js.map": "/dixon/static/js/main.94933422.js.map",
+    "787.c4c76647.chunk.js.map": "/dixon/static/js/787.c4c76647.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.632039c2.css",
+    "static/js/main.94933422.js"
+  ]
+}
