@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/dixon/static/css/main.b376a4c9.chunk.css",
-    "main.js": "/dixon/static/js/main.bc02f95f.chunk.js",
-    "main.js.map": "/dixon/static/js/main.bc02f95f.chunk.js.map",
-    "runtime-main.js": "/dixon/static/js/runtime-main.57029da2.js",
-    "runtime-main.js.map": "/dixon/static/js/runtime-main.57029da2.js.map",
-    "static/css/2.b5f9dda7.chunk.css": "/dixon/static/css/2.b5f9dda7.chunk.css",
-    "static/js/2.04998479.chunk.js": "/dixon/static/js/2.04998479.chunk.js",
-    "static/js/2.04998479.chunk.js.map": "/dixon/static/js/2.04998479.chunk.js.map",
-    "static/js/3.876fbdac.chunk.js": "/dixon/static/js/3.876fbdac.chunk.js",
-    "static/js/3.876fbdac.chunk.js.map": "/dixon/static/js/3.876fbdac.chunk.js.map",
-    "index.html": "/dixon/index.html",
-    "static/css/2.b5f9dda7.chunk.css.map": "/dixon/static/css/2.b5f9dda7.chunk.css.map",
-    "static/css/main.b376a4c9.chunk.css.map": "/dixon/static/css/main.b376a4c9.chunk.css.map",
-    "static/js/2.04998479.chunk.js.LICENSE.txt": "/dixon/static/js/2.04998479.chunk.js.LICENSE.txt",
-    "static/media/main.scss": "/dixon/static/media/saltoris.85ee1f2d.png"
+    "main.css": "dixon/static/css/main.cf7a57f8.chunk.css",
+    "main.js": "dixon/static/js/main.75d04838.chunk.js",
+    "main.js.map": "dixon/static/js/main.75d04838.chunk.js.map",
+    "runtime-main.js": "dixon/static/js/runtime-main.0c92c7df.js",
+    "runtime-main.js.map": "dixon/static/js/runtime-main.0c92c7df.js.map",
+    "static/css/2.b5f9dda7.chunk.css": "dixon/static/css/2.b5f9dda7.chunk.css",
+    "static/js/2.0b08c597.chunk.js": "dixon/static/js/2.0b08c597.chunk.js",
+    "static/js/2.0b08c597.chunk.js.map": "dixon/static/js/2.0b08c597.chunk.js.map",
+    "static/js/3.876fbdac.chunk.js": "dixon/static/js/3.876fbdac.chunk.js",
+    "static/js/3.876fbdac.chunk.js.map": "dixon/static/js/3.876fbdac.chunk.js.map",
+    "index.html": "dixon/index.html",
+    "static/css/2.b5f9dda7.chunk.css.map": "dixon/static/css/2.b5f9dda7.chunk.css.map",
+    "static/css/main.cf7a57f8.chunk.css.map": "dixon/static/css/main.cf7a57f8.chunk.css.map",
+    "static/js/2.0b08c597.chunk.js.LICENSE.txt": "dixon/static/js/2.0b08c597.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "dixon/static/media/saltoris.85ee1f2d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.57029da2.js",
+    "static/js/runtime-main.0c92c7df.js",
     "static/css/2.b5f9dda7.chunk.css",
-    "static/js/2.04998479.chunk.js",
-    "static/css/main.b376a4c9.chunk.css",
-    "static/js/main.bc02f95f.chunk.js"
+    "static/js/2.0b08c597.chunk.js",
+    "static/css/main.cf7a57f8.chunk.css",
+    "static/js/main.75d04838.chunk.js"
   ]
 }
