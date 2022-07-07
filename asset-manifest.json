@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/dixon/static/css/main.b3949ff6.css",
-    "main.js": "/dixon/static/js/main.beeab859.js",
+    "main.js": "/dixon/static/js/main.5bb84db7.js",
     "static/js/787.c4c76647.chunk.js": "/dixon/static/js/787.c4c76647.chunk.js",
     "static/media/deil-logo.png": "/dixon/static/media/deil-logo.d96e87679f098a05d850.png",
     "index.html": "/dixon/index.html",
     "main.b3949ff6.css.map": "/dixon/static/css/main.b3949ff6.css.map",
-    "main.beeab859.js.map": "/dixon/static/js/main.beeab859.js.map",
+    "main.5bb84db7.js.map": "/dixon/static/js/main.5bb84db7.js.map",
     "787.c4c76647.chunk.js.map": "/dixon/static/js/787.c4c76647.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3949ff6.css",
-    "static/js/main.beeab859.js"
+    "static/js/main.5bb84db7.js"
   ]
 }
