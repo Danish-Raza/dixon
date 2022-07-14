@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dixon/static/css/main.18d1b9bc.chunk.css",
-    "main.js": "/dixon/static/js/main.b296dda4.chunk.js",
-    "main.js.map": "/dixon/static/js/main.b296dda4.chunk.js.map",
+    "main.js": "/dixon/static/js/main.8580566f.chunk.js",
+    "main.js.map": "/dixon/static/js/main.8580566f.chunk.js.map",
     "runtime-main.js": "/dixon/static/js/runtime-main.b03af7d5.js",
     "runtime-main.js.map": "/dixon/static/js/runtime-main.b03af7d5.js.map",
     "static/css/2.b5f9dda7.chunk.css": "/dixon/static/css/2.b5f9dda7.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.b5f9dda7.chunk.css",
     "static/js/2.4a32fe99.chunk.js",
     "static/css/main.18d1b9bc.chunk.css",
-    "static/js/main.b296dda4.chunk.js"
+    "static/js/main.8580566f.chunk.js"
   ]
 }
