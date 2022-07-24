@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/dixon/static/css/main.94dcc403.chunk.css",
-    "main.js": "/dixon/static/js/main.1511f8c6.chunk.js",
-    "main.js.map": "/dixon/static/js/main.1511f8c6.chunk.js.map",
-    "runtime-main.js": "/dixon/static/js/runtime-main.b03af7d5.js",
-    "runtime-main.js.map": "/dixon/static/js/runtime-main.b03af7d5.js.map",
+    "main.css": "/dixon/static/css/main.25530f68.chunk.css",
+    "main.js": "/dixon/static/js/main.1e8717e7.chunk.js",
+    "main.js.map": "/dixon/static/js/main.1e8717e7.chunk.js.map",
+    "runtime-main.js": "/dixon/static/js/runtime-main.8c9228f9.js",
+    "runtime-main.js.map": "/dixon/static/js/runtime-main.8c9228f9.js.map",
     "static/css/2.b5f9dda7.chunk.css": "/dixon/static/css/2.b5f9dda7.chunk.css",
-    "static/js/2.facd6a5e.chunk.js": "/dixon/static/js/2.facd6a5e.chunk.js",
-    "static/js/2.facd6a5e.chunk.js.map": "/dixon/static/js/2.facd6a5e.chunk.js.map",
-    "static/js/3.366413be.chunk.js": "/dixon/static/js/3.366413be.chunk.js",
-    "static/js/3.366413be.chunk.js.map": "/dixon/static/js/3.366413be.chunk.js.map",
+    "static/js/2.92fd6538.chunk.js": "/dixon/static/js/2.92fd6538.chunk.js",
+    "static/js/2.92fd6538.chunk.js.map": "/dixon/static/js/2.92fd6538.chunk.js.map",
+    "static/js/3.b97c6468.chunk.js": "/dixon/static/js/3.b97c6468.chunk.js",
+    "static/js/3.b97c6468.chunk.js.map": "/dixon/static/js/3.b97c6468.chunk.js.map",
     "index.html": "/dixon/index.html",
     "static/css/2.b5f9dda7.chunk.css.map": "/dixon/static/css/2.b5f9dda7.chunk.css.map",
-    "static/css/main.94dcc403.chunk.css.map": "/dixon/static/css/main.94dcc403.chunk.css.map",
-    "static/js/2.facd6a5e.chunk.js.LICENSE.txt": "/dixon/static/js/2.facd6a5e.chunk.js.LICENSE.txt",
+    "static/css/main.25530f68.chunk.css.map": "/dixon/static/css/main.25530f68.chunk.css.map",
+    "static/js/2.92fd6538.chunk.js.LICENSE.txt": "/dixon/static/js/2.92fd6538.chunk.js.LICENSE.txt",
     "static/media/deil-logo.d96e8767.png": "/dixon/static/media/deil-logo.d96e8767.png",
     "static/media/saltoris.85ee1f2d.png": "/dixon/static/media/saltoris.85ee1f2d.png",
     "static/media/main.scss": "/dixon/static/media/table-column.b3164c2e.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.b03af7d5.js",
+    "static/js/runtime-main.8c9228f9.js",
     "static/css/2.b5f9dda7.chunk.css",
-    "static/js/2.facd6a5e.chunk.js",
-    "static/css/main.94dcc403.chunk.css",
-    "static/js/main.1511f8c6.chunk.js"
+    "static/js/2.92fd6538.chunk.js",
+    "static/css/main.25530f68.chunk.css",
+    "static/js/main.1e8717e7.chunk.js"
   ]
 }
